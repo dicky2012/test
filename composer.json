@@ -1,0 +1,14 @@
+{
+    "name": "dicky/demo",
+    "description": "test project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "dicky",
+            "email": "599029973@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
